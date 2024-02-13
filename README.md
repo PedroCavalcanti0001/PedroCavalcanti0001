@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,i am Pedro Cavalcanti</h1>
-<h3 align="start">I currently work professionally as a developer and am an expert in software engineering.</h3>
+<h3 align="start">I currently work professionally as a developer.</h3>
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrocavalcanti0001" alt="pedrocavalcanti0001" /></a>
